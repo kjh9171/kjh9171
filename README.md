@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./profile.png" alt="Profile Banner" width="100%" />
+  <img src="./banner.svg" alt="Profile Banner" width="100%" />
   <br /><br />
   <strong>보안 위협을 탐지하고, 컴플라이언스를 자동화하며, 안전한 소프트웨어를 설계합니다.</strong><br />
   보안 관제·개인정보보호 SaaS부터 AI 에이전트 워크플로우까지 실전 솔루션을 구축합니다.
